@@ -4,5 +4,3 @@ pillow
 reportlab
 streamlit
 numpy
-pandas
-plotly
