@@ -4,3 +4,6 @@ pillow
 reportlab
 streamlit
 numpy
+pandas
+plotly
+streamlit-shadcn-ui
