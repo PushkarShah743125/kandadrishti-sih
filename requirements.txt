@@ -7,3 +7,4 @@ numpy
 pandas
 plotly
 streamlit-shadcn-ui
+nnn
